@@ -1,0 +1,47 @@
+html {
+  background-color: #232527;
+  color: #ccc;
+  font-family: HCo Gotham SSm, Helvetica Neue, Helvetica, Arial, Lucida Grande,
+    sans-serif;
+}
+
+#body {
+  width: 66%;
+}
+
+#selector {
+  width: 34%;
+  float: right;
+  outline: 0px;
+  margin-bottom: 5px;
+}
+
+#selector .selected {
+  width: 25%;
+  float: left;
+  outline: 1px solid;
+  margin-top: -5px;
+  margin-bottom: 5px;
+}
+
+#selector #buy {
+  margin: auto;
+  display: block;
+  width: calc(50% + 2px);
+}
+
+.item {
+  width: 7%;
+  border: 1px solid transparent;
+  margin-bottom: -6px;
+  margin-top: 2px;
+}
+
+.item:hover {
+  border: 1px solid;
+}
+
+#filters {
+  width: 100%;
+  padding: 5px 5px;
+}

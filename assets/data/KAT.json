@@ -1,0 +1,1388 @@
+{
+   "items": [{
+      "real_name": "Invisible",
+      "type": "RadioContent",
+      "name": "Invisible Radio",
+      "tier": "Legendary",
+      "desc": "There is no radio.\nRequires the Radio Pass to use.\n[Can be found in Extras]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2188435221"
+   }, {
+      "real_name": "DiamondRadio",
+      "type": "RadioContent",
+      "name": "Diamond Radio",
+      "tier": "Legendary",
+      "desc": " ",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2188434186"
+   }, {
+      "real_name": "TheMixtape",
+      "type": "RadioContent",
+      "name": "The Mixtape",
+      "tier": "Legendary",
+      "desc": "Spicy hot!\nRequires the Radio Pass to use.\n[Can be found in Extras]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2188432857"
+   }, {
+      "real_name": "GoldenRadio",
+      "type": "RadioContent",
+      "name": "Golden Radio",
+      "tier": "Epic",
+      "desc": " ",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2188433561"
+   }, {
+      "real_name": "BlackIronRadio",
+      "type": "RadioContent",
+      "name": "Black Iron",
+      "tier": "Epic",
+      "desc": " ",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2188431540"
+   }, {
+      "real_name": "FabulousRadio",
+      "type": "RadioContent",
+      "name": "Fabulous Radio",
+      "tier": "Epic",
+      "desc": "Fabulous!\nRequires the Radio Pass to use.\n[Can be found in Extras]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4063528908"
+   }, {
+      "real_name": "VoidRadio",
+      "type": "RadioContent",
+      "name": "Void Radio",
+      "tier": "Epic",
+      "desc": " ",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992264521",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "HotdogScoutCharacter",
+      "type": "CharacterSkins",
+      "name": "Hotdog Scout",
+      "tier": "Legendary",
+      "desc": "Yeeah! You just got freakin' dominated!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5191280373"
+   }, {
+      "real_name": "SpongeyCharacter",
+      "type": "CharacterSkins",
+      "name": "Spengy",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4169769576"
+   }, {
+      "real_name": "BeastCharacter",
+      "type": "CharacterSkins",
+      "name": "Beast",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2694084025"
+   }, {
+      "real_name": "EpicDuck",
+      "type": "Gears",
+      "name": "Epic Duck",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2562583734"
+   }, {
+      "real_name": "Sandvich",
+      "type": "Gears",
+      "name": "Sandvich",
+      "tier": "Rare",
+      "desc": "What was that Sandvich? Kill them all? Good idea!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2562584175"
+   }, {
+      "real_name": "ThrowSanic",
+      "type": "Gears",
+      "name": "Throw Sanic",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=135813071"
+   }, {
+      "real_name": "MoneyBag",
+      "type": "Gears",
+      "name": "Money Bag",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=16659163"
+   }, {
+      "real_name": "SporkOFDOOM",
+      "type": "Gears",
+      "name": "Spork OF DOOM",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=107441224",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "FakeC4",
+      "type": "Gears",
+      "name": "Plastic Explosive",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4191593108"
+   }, {
+      "real_name": "VictoryKnife",
+      "type": "EXPUNGED_CONTENT",
+      "name": "Sakusetsu",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997573037"
+   }, {
+      "real_name": "Bombinomicon",
+      "type": "FollowersContent",
+      "name": "Bombinomicon",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4017696897"
+   }, {
+      "real_name": "BongoCat",
+      "type": "FollowersContent",
+      "name": "Bongo Cat",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4017695395"
+   }, {
+      "real_name": "AkuAku",
+      "type": "FollowersContent",
+      "name": "Aku Aku",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4045896411"
+   }, {
+      "real_name": "CatFollower",
+      "type": "FollowersContent",
+      "name": "Portable Sun",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5897308431"
+   }, {
+      "real_name": "CrateT1",
+      "type": "Crates",
+      "name": "Mystery Crate #1",
+      "tier": "Rare",
+      "desc": "Open to obtain a random tradeable weapon skin!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5022185105"
+   }, {
+      "real_name": "CrateT1_BM",
+      "type": "Crates",
+      "name": "Mystery Crate #1",
+      "tier": "Contraband",
+      "desc": "Open to obtain a random tradeable weapon skin!\nPurchased illegally from the Black Market.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5022185105"
+   }, {
+      "real_name": "CrateT1_F",
+      "type": "Crates",
+      "name": "Mystery Crate",
+      "tier": "Stock",
+      "desc": "Open to obtain a random tradeable weapon skin!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5022185105"
+   }, {
+      "real_name": "CrateT0",
+      "type": "Crates",
+      "name": "Mystery Crate #0",
+      "tier": "Contraband",
+      "desc": "Redacted",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5022185105",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "CrateT1_HW",
+      "type": "Crates",
+      "name": "Halloween Crate #2",
+      "tier": "Epic",
+      "desc": "Open to obtain a random tradeable weapon skin!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5917808508"
+   }, {
+      "real_name": "CrateT2_HW",
+      "type": "Crates",
+      "name": "Halloween Crate #2",
+      "tier": "Legendary",
+      "desc": "Open to obtain a random tradeable weapon skin!\n[Increased Chances]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5917808508"
+   }, {
+      "real_name": "CrateT2_HW_BM",
+      "type": "Crates",
+      "name": "Halloween Crate #2",
+      "tier": "Contraband",
+      "desc": "Open to obtain a random tradeable weapon skin!\nPurchased illegally from the Black Market.\n[Increased Chances]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5917808508"
+   }, {
+      "real_name": "RdmEventItem",
+      "type": "Menu",
+      "name": "Festive item",
+      "tier": "Legendary",
+      "desc": "Recieve a random FESTIVE event item.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=6133015374"
+   }, {
+      "real_name": "AWP2",
+      "type": "RevolverContent",
+      "name": "AWP",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2675137550"
+   }, {
+      "real_name": "DeathAWP",
+      "type": "RevolverContent",
+      "name": "Death AWP",
+      "tier": "TrueMythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2695212901"
+   }, {
+      "real_name": "NeoAWP",
+      "type": "RevolverContent",
+      "name": "AWP-Neo",
+      "tier": "TrueMythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2697945056"
+   }, {
+      "real_name": "ShotgunRevolver",
+      "type": "RevolverContent",
+      "name": "Shotgun Revolver",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3076504754"
+   }, {
+      "real_name": "Longshot",
+      "type": "RevolverContent",
+      "name": "The LongShot",
+      "tier": "Stock",
+      "desc": "That's a longshot kiddo.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5223965335"
+   }, {
+      "real_name": "VoidRevolver",
+      "type": "RevolverContent",
+      "name": "Void Revolver",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992264073"
+   }, {
+      "real_name": "SoulRevolver",
+      "type": "RevolverContent",
+      "name": "Soul",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5047355492"
+   }, {
+      "real_name": "SilencedPistol",
+      "type": "RevolverContent",
+      "name": "Silenced Pistol",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1603823348",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "RosequartzRevolver",
+      "type": "RevolverContent",
+      "name": "Rosequartz",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1490414771"
+   }, {
+      "real_name": "Derringer",
+      "type": "RevolverContent",
+      "name": "Derringer",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2181199559",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "GoldMauser",
+      "type": "RevolverContent",
+      "name": "Gold Mauser c96",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4486095352",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "Annihilator",
+      "type": "RevolverContent",
+      "name": "Annihilator",
+      "tier": "Contraband",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5931474536"
+   }, {
+      "real_name": "LostRevolver",
+      "type": "RevolverContent",
+      "name": "Lost",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5047354775"
+   }, {
+      "real_name": "GoldLuger",
+      "type": "RevolverContent",
+      "name": "Gold Luger",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4114788809"
+   }, {
+      "real_name": "CorruptLuger",
+      "type": "RevolverContent",
+      "name": "Venomizer",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4114735707"
+   }, {
+      "real_name": "SixPistols",
+      "type": "RevolverContent",
+      "name": "Six Bullets",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3157973344"
+   }, {
+      "real_name": "Desperado",
+      "type": "RevolverContent",
+      "name": "Desperado",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1500499775"
+   }, {
+      "real_name": "USP-S",
+      "type": "RevolverContent",
+      "name": "USP-S",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3088801089"
+   }, {
+      "real_name": "MadPaintballGun",
+      "type": "RevolverContent",
+      "name": "Paintball Gun",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3088840821"
+   }, {
+      "real_name": "KingOfSpades",
+      "type": "RevolverContent",
+      "name": "King of Spades",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5012595470"
+   }, {
+      "real_name": "DrunkTengu",
+      "type": "RevolverContent",
+      "name": "Trick",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8320081823"
+   }, {
+      "real_name": "Tacticool",
+      "type": "RevolverContent",
+      "name": "Tacticool",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1244449590"
+   }, {
+      "real_name": "R6Revolver",
+      "type": "RevolverContent",
+      "name": "R6 Revolver",
+      "tier": "Contraband",
+      "desc": "MY Revolver.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3157923778"
+   }, {
+      "real_name": "BananaGun",
+      "type": "RevolverContent",
+      "name": "Banana",
+      "tier": "Legendary",
+      "desc": "Ohhhh banana",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4800282271"
+   }, {
+      "real_name": "GoldColt",
+      "type": "RevolverContent",
+      "name": "Gold Colt",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1356076086"
+   }, {
+      "real_name": "Spookshot",
+      "type": "RevolverContent",
+      "name": "Spookshot",
+      "tier": "Rare",
+      "desc": "[Halloween 2019 item]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4155332496"
+   }, {
+      "real_name": "ToyColt",
+      "type": "RevolverContent",
+      "name": "Toy Gun",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1522753521",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "ChillyDown",
+      "type": "Perks",
+      "name": "Headless Horror",
+      "tier": "Mythical",
+      "desc": "You might find the results to be\nquite shocking...",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8285045202"
+   }, {
+      "real_name": "SuperKevlar",
+      "type": "Perks",
+      "name": "Super Kevlar",
+      "tier": "Legendary",
+      "desc": "+ Take less damage from revolver fire.\n!- 15% slower Movement Speed.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8269125019"
+   }, {
+      "real_name": "ReflectPerk",
+      "type": "Perks",
+      "name": "Deflect",
+      "tier": "Legendary",
+      "desc": "+ Passive Ability: Deflect revolver fire.\n!- Cannot spawn with Revolver.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5145067270"
+   }, {
+      "real_name": "CoffinDweller2",
+      "type": "Taunts",
+      "name": "Coffin Dweller II",
+      "tier": "Contraband",
+      "desc": "You can use Emotes with the G key on PC, or the emote button on mobile.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5917505130",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "Hadouken",
+      "type": "Taunts",
+      "name": "Hadouken",
+      "tier": "Legendary",
+      "desc": "You can use Emotes with the G key on PC, or the emote button on mobile.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4111254156"
+   }, {
+      "real_name": "CoffinDweller",
+      "type": "Taunts",
+      "name": "Coffin Dweller",
+      "tier": "Epic",
+      "desc": "You can use Emotes with the G key on PC, or the emote button on mobile.\n[Halloween 2020 item]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5917505130"
+   }, {
+      "real_name": "Boxtrot",
+      "type": "Taunts",
+      "name": "Box Trot",
+      "tier": "Legendary",
+      "desc": "You can use Emotes with the G key on PC, or the emote button on mobile.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4102312473"
+   }, {
+      "real_name": "KCoal",
+      "type": "Consumables",
+      "name": "A Lump of Coal",
+      "tier": "Epic",
+      "desc": "UH oh..",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8325549357"
+   }, {
+      "real_name": "MediumGift",
+      "type": "Consumables",
+      "name": "Festive Gift",
+      "tier": "Rare",
+      "desc": "Happy Holidays 2021\nDouble Tap to open..",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8320018762"
+   }, {
+      "real_name": "NameTag",
+      "type": "Consumables",
+      "name": "Name Tag",
+      "tier": "Rare",
+      "desc": "One time use consumable, can be used to\nrename items.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5118514438"
+   }, {
+      "real_name": "RadioPassVoucher",
+      "type": "Consumables",
+      "name": "Radio Token",
+      "tier": "Epic",
+      "desc": "Giftable voucher, can be used to give Radio.\n!Cannot be exchanged for robux equivalent",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5200128417"
+   }, {
+      "real_name": "RadioPassVoucher_BM",
+      "type": "Consumables",
+      "name": "Radio Token [BM]",
+      "tier": "Contraband",
+      "desc": "Giftable voucher, can be used to give Radio.\nPurchased illegally from the Black Market.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5200128417"
+   }, {
+      "real_name": "MVPPassVoucher_BM",
+      "type": "Consumables",
+      "name": "MVP Token [BM]",
+      "tier": "Contraband",
+      "desc": "Giftable voucher, can be used to give MVP.\nPurchased illegally from the Black Market.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5209963405"
+   }, {
+      "real_name": "VIPPassVoucher_BM",
+      "type": "Consumables",
+      "name": "VIP Token [BM]",
+      "tier": "Contraband",
+      "desc": "Giftable voucher, can be used to give VIP.\nPurchased illegally from the Black Market.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5209962831"
+   }, {
+      "real_name": "TeslaPassVoucher",
+      "type": "Consumables",
+      "name": "Tesla Token",
+      "tier": "Legendary",
+      "desc": "Giftable voucher, can be used to obtain the\nTesla knife ability.\n!Cannot be exchanged for robux equivalent",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5175768219"
+   }, {
+      "real_name": "ShotgunPassVoucher",
+      "type": "Consumables",
+      "name": "Shotgun Token",
+      "tier": "Epic",
+      "desc": "Giftable voucher, can be used to obtain the\nShotgun knife ability.\n!Cannot be exchanged for robux equivalent",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5175769431"
+   }, {
+      "real_name": "ShardsPassVoucher",
+      "type": "Consumables",
+      "name": "Shards Token",
+      "tier": "Epic",
+      "desc": "Giftable voucher, can be used to obtain the shard knives.\n!Cannot be exchanged for robux equivalent",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5175768734"
+   }, {
+      "real_name": "MVPPassVoucher",
+      "type": "Consumables",
+      "name": "MVP Token",
+      "tier": "Epic",
+      "desc": "Giftable voucher, can be used to give MVP.\n!Cannot be exchanged for robux equivalent",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5175770455"
+   }, {
+      "real_name": "VIPPassVoucher",
+      "type": "Consumables",
+      "name": "VIP Token",
+      "tier": "Rare",
+      "desc": "Giftable voucher, can be used to give VIP.\n!Cannot be exchanged for robux equivalent",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5175769983"
+   }, {
+      "real_name": "DescriptionTag",
+      "type": "Consumables",
+      "name": "Description Tag",
+      "tier": "Contraband",
+      "desc": "One time use consumable, can be used to\nrename items.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5118514438",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "RuneDagger",
+      "type": "KnifeContent",
+      "name": "Rune Dagger",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1480331546"
+   }, {
+      "real_name": "SanicKnife",
+      "type": "KnifeContent",
+      "name": "Sanic Knife",
+      "tier": "Epic",
+      "desc": "You're too slow!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1479558400"
+   }, {
+      "real_name": "HellKnife",
+      "type": "KnifeContent",
+      "name": "Hell Knife",
+      "tier": "Epic",
+      "desc": "A straight ticket to the netherworld!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4153203215"
+   }, {
+      "real_name": "InvisibleKnife",
+      "type": "KnifeContent",
+      "name": "Invisible Knife",
+      "tier": "Epic",
+      "desc": "They'll never see it coming",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1001851028"
+   }, {
+      "real_name": "ParticleKnife",
+      "type": "KnifeContent",
+      "name": "Particle Knife",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1309901102"
+   }, {
+      "real_name": "GreatBlueKnife",
+      "type": "KnifeContent",
+      "name": "Great Blue",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5931452742"
+   }, {
+      "real_name": "VoidKnife",
+      "type": "KnifeContent",
+      "name": "Void",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992263687"
+   }, {
+      "real_name": "Crowbar",
+      "type": "KnifeContent",
+      "name": "Crowbar",
+      "tier": "Epic",
+      "desc": "* Crowbar sounds *",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5004891934",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "TantoSlayer",
+      "type": "KnifeContent",
+      "name": "Zombie Slayer",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2522533932"
+   }, {
+      "real_name": "CleaverKnife",
+      "type": "KnifeContent",
+      "name": "Cleaver",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2230549718"
+   }, {
+      "real_name": "PlasmaKnife",
+      "type": "KnifeContent",
+      "name": "Plasma",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997200825"
+   }, {
+      "real_name": "EvergreenKnife",
+      "type": "KnifeContent",
+      "name": "Evergreen",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5909797256"
+   }, {
+      "real_name": "CheckKnife4",
+      "type": "KnifeContent",
+      "name": "Check IV",
+      "tier": "Epic",
+      "desc": "Check but EVEN cooler",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992262705"
+   }, {
+      "real_name": "TombKnife2",
+      "type": "KnifeContent",
+      "name": "Tombstoner",
+      "tier": "Epic",
+      "desc": "Put them 6 feet under! \n[Halloween 2020 release]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3986438762"
+   }, {
+      "real_name": "OverseerKnifeNew",
+      "type": "KnifeContent",
+      "name": "Overseer",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1311928288"
+   }, {
+      "real_name": "OverseerKnife",
+      "type": "KnifeContent",
+      "name": "Legacy",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5225288363"
+   }, {
+      "real_name": "AzureClaw",
+      "type": "KnifeContent",
+      "name": "Azure",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5909798899"
+   }, {
+      "real_name": "DarkKnife",
+      "type": "KnifeContent",
+      "name": "Dark",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2301080667"
+   }, {
+      "real_name": "Darkheart",
+      "type": "KnifeContent",
+      "name": "Blackheart",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997582864"
+   }, {
+      "real_name": "CutlassKnife",
+      "type": "KnifeContent",
+      "name": "Cutlass",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5004853669"
+   }, {
+      "real_name": "CheckKnife",
+      "type": "KnifeContent",
+      "name": "Check",
+      "tier": "Epic",
+      "desc": "Stylish",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992262705"
+   }, {
+      "real_name": "CheckKnife2",
+      "type": "KnifeContent",
+      "name": "Check II",
+      "tier": "Epic",
+      "desc": "Check but cooler",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992262705"
+   }, {
+      "real_name": "CheckKnife3",
+      "type": "KnifeContent",
+      "name": "Check III",
+      "tier": "Epic",
+      "desc": "Check x3",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992262705"
+   }, {
+      "real_name": "CheckKnife5",
+      "type": "KnifeContent",
+      "name": "Check V",
+      "tier": "Legendary",
+      "desc": "Fun fact: You wasted 16 check knives just to\nobtain this. Hope you're happy.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992262705"
+   }, {
+      "real_name": "TantoYuki",
+      "type": "KnifeContent",
+      "name": "Yuki-Onna",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2522843990"
+   }, {
+      "real_name": "RobloxKnife",
+      "type": "KnifeContent",
+      "name": "Roblox Knife",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4998243044"
+   }, {
+      "real_name": "SoundKnife",
+      "type": "KnifeContent",
+      "name": "Soundwave",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997201320"
+   }, {
+      "real_name": "SchoolKnife",
+      "type": "KnifeContent",
+      "name": "School Tool",
+      "tier": "Common",
+      "desc": "No recess.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1441087750"
+   }, {
+      "real_name": "WatermelonKnife",
+      "type": "KnifeContent",
+      "name": "Watermelon",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997570161"
+   }, {
+      "real_name": "SandKnife",
+      "type": "KnifeContent",
+      "name": "Sand Dune",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997201768"
+   }, {
+      "real_name": "WoodenKnife",
+      "type": "KnifeContent",
+      "name": "Wooden",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997664262"
+   }, {
+      "real_name": "BurgKnife",
+      "type": "KnifeContent",
+      "name": "Hamburger",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4862689141"
+   }, {
+      "real_name": "TPKnife",
+      "type": "KnifeContent",
+      "name": "Toilet Talk",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4797034809"
+   }, {
+      "real_name": "TantoKnife",
+      "type": "KnifeContent",
+      "name": "Tanto",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2522532625"
+   }, {
+      "real_name": "SketchyStabber",
+      "type": "KnifeContent",
+      "name": "Sketch",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1880097328",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "CutcakeKnife",
+      "type": "KnifeContent",
+      "name": "Cutcake",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1907497821"
+   }, {
+      "real_name": "PineappleKnife",
+      "type": "KnifeContent",
+      "name": "Pineapple Knife",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3622138285"
+   }, {
+      "real_name": "PoolKnife",
+      "type": "KnifeContent",
+      "name": "Pool Time",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992266377"
+   }, {
+      "real_name": "HellfireKnife",
+      "type": "KnifeContent",
+      "name": "Hellfire",
+      "tier": "Common",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992262023"
+   }, {
+      "real_name": "UserGeneratedKnife",
+      "type": "KnifeContent",
+      "name": "UGC Knife",
+      "tier": "Contraband",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1309870007",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "Hammer",
+      "type": "KnifeContent",
+      "name": "Hammer",
+      "tradable": false,
+      "tier": "Stock",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=12592745",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "BrokeKnife",
+      "type": "KnifeContent",
+      "name": "E-Begger",
+      "tier": "Stock",
+      "desc": "A poor man's knife;\nPlease stop asking me for free items.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5190753701"
+   }, {
+      "real_name": "BBruhTime",
+      "type": "KnifeContent",
+      "name": "Bruh Buster",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5897043966",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "BoneKnife",
+      "type": "KnifeContent",
+      "name": "Bone Knife",
+      "tier": "Rare",
+      "desc": "More cost effective than an Xray! \n[Halloween 2019 item]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3618285491"
+   }, {
+      "real_name": "TombKnife",
+      "type": "KnifeContent",
+      "name": "Tombstoner",
+      "tier": "Rare",
+      "desc": "Put them 6 feet under! \n[Halloween 2019 item]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3986438762"
+   }, {
+      "real_name": "LobotomyTime",
+      "type": "KnifeContent",
+      "name": "Brain Buster",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5897043966"
+   }, {
+      "real_name": "DangerKnife",
+      "type": "KnifeContent",
+      "name": "Danger",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5047352756"
+   }, {
+      "real_name": "FryingPan",
+      "type": "KnifeContent",
+      "name": "Frying Pan",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2370762877"
+   }, {
+      "real_name": "ClownKnife",
+      "type": "KnifeContent",
+      "name": "Clown",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5006690973"
+   }, {
+      "real_name": "PeanutSparkle",
+      "type": "KnifeContent",
+      "name": "Peanut Sparkle",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997199703"
+   }, {
+      "real_name": "RadioactiveKnife",
+      "type": "KnifeContent",
+      "name": "Toxicity",
+      "tier": "Rare",
+      "desc": "More toxic than ...",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4997198541",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "RitualKnife",
+      "type": "KnifeContent",
+      "name": "Ritual",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5909799839",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "PickleKnife2",
+      "type": "KnifeContent",
+      "name": "Pickle Knife",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4814265401"
+   }, {
+      "real_name": "PokerKnife",
+      "type": "KnifeContent",
+      "name": "Poker",
+      "tier": "Epic",
+      "desc": "This knife does not in any way, shape or form,\npromote gambling.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4995393648"
+   }, {
+      "real_name": "PickleKnife",
+      "type": "KnifeContent",
+      "name": "Pickle Knife",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4814263695"
+   }, {
+      "real_name": "ButterflyKnifeOrange",
+      "type": "KnifeContent",
+      "name": "Butterfly Knife",
+      "tier": "Rare",
+      "desc": "Now in orange.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1438086170"
+   }, {
+      "real_name": "HackerKnife",
+      "type": "KnifeContent",
+      "name": "Binary",
+      "tier": "Rare",
+      "desc": "Haul & pull up!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992263163"
+   }, {
+      "real_name": "YangKnife",
+      "type": "KnifeContent",
+      "name": "Ying-Yang",
+      "tier": "Rare",
+      "desc": "Perfectly balanced, as all things should be.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992265812"
+   }, {
+      "real_name": "MLGKnife2",
+      "type": "KnifeContent",
+      "name": "MLG",
+      "tier": "Rare",
+      "desc": "Get noscoped!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4992265221"
+   }, {
+      "real_name": "SilverFang",
+      "type": "KnifeContent",
+      "name": "Silverfang",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4998242117"
+   }, {
+      "real_name": "ShovelFortress",
+      "type": "KnifeContent",
+      "name": "Shovel",
+      "tier": "Rare",
+      "desc": "You were good son, real good; maybe even the best.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4903742148"
+   }, {
+      "real_name": "RobuxKnife",
+      "type": "KnifeContent",
+      "name": "Robux Knife",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1002123375"
+   }, {
+      "real_name": "IcyTeaKnife",
+      "type": "KnifeContent",
+      "name": "IcyTea Knife",
+      "tier": "Rare",
+      "desc": "Not a dev!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1339007263"
+   }, {
+      "real_name": "Headful",
+      "type": "KnifeContent",
+      "name": "UTILITY_HEADFUL",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8318624127",
+      "UNOBTAINABLE": true,
+
+      "comment": [
+         "how are we going to handle this thing",
+         "are we gonna have to collect every single person who uses this knife??",
+         "ermm do not"
+      ]
+   }, {
+      "real_name": "KrampusKilla",
+      "type": "KnifeContent",
+      "name": "Krampus",
+      "tier": "Mythical",
+      "desc": "GIVE ME BACK MY BLOOD, JOSHUA",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8284727129"
+   }, {
+      "real_name": "MirrorKnife",
+      "type": "KnifeContent",
+      "name": "Mirror Knife",
+      "tier": "Legendary",
+      "desc": "Rewarded to original players who\nachieved level 100 or over.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5012536953"
+   }, {
+      "real_name": "HorrorMachete",
+      "type": "KnifeContent",
+      "name": "Scream",
+      "tier": "Mythical",
+      "desc": "[Halloween 2020 item]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5832937390"
+   }, {
+      "real_name": "ChaosKnife",
+      "type": "KnifeContent",
+      "name": "Chaos Knife",
+      "tier": "Mythical",
+      "desc": "Imbued with cosmic power, allows the user\n to summon the power of any distinct knife\n effect in the game.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1879522283"
+   }, {
+      "real_name": "Karambit",
+      "type": "KnifeContent",
+      "name": "Karambit",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5778515705"
+   }, {
+      "real_name": "TheDragonSlayer",
+      "type": "KnifeContent",
+      "name": "Dragon Slayer",
+      "tier": "Contraband",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3381588809",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "Reaper",
+      "type": "KnifeContent",
+      "name": "Reaper Knife",
+      "tier": "Mythical",
+      "desc": "Don't Fear the Reaper. \n[Halloween 2019 item]",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1907498994"
+   }, {
+      "real_name": "Null",
+      "type": "KnifeContent",
+      "name": "Null",
+      "tier": "Mythical",
+      "desc": "This. Description. Is. False.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4993994595"
+   }, {
+      "real_name": "TrueDragonSlayer",
+      "type": "KnifeContent",
+      "name": "True Dragon Slayer",
+      "tier": "Contraband",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3381588809",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "LegOfDoom",
+      "type": "KnifeContent",
+      "name": "Chicken Leg of Doom",
+      "tier": "Contraband",
+      "desc": "I <3 fried chicken",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=282614289"
+   }, {
+      "real_name": "BanHammer",
+      "type": "KnifeContent",
+      "name": "Ban Hammer",
+      "tier": "TrueMythical",
+      "desc": "DISCLAIMER: Doesn't actually ban people.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1311835610"
+   }, {
+      "real_name": "EruptionKnife",
+      "type": "KnifeContent",
+      "name": "Fury",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1311836100"
+   }, {
+      "real_name": "RainbowStorm",
+      "type": "KnifeContent",
+      "name": "Colour Storm",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4998245430",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "Skylark",
+      "type": "KnifeContent",
+      "name": "Skylark",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5061841137"
+   }, {
+      "real_name": "PianoBreaker",
+      "type": "KnifeContent",
+      "name": "Piano Breaker",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5896886052"
+   }, {
+      "real_name": "OverseerKnife2",
+      "type": "KnifeContent",
+      "name": "Overseer II",
+      "tier": "Legendary",
+      "desc": "1+1=1+",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1311928288"
+   }, {
+      "real_name": "CatKnife",
+      "type": "KnifeContent",
+      "name": "Cat Knife",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5904059168"
+   }, {
+      "real_name": "GoldWrench",
+      "type": "KnifeContent",
+      "name": "Golden Wrench",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3192763451"
+   }, {
+      "real_name": "EternalFlames",
+      "type": "KnifeContent",
+      "name": "Eternal Flames",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5061841821"
+   }, {
+      "real_name": "Technology",
+      "type": "KnifeContent",
+      "name": "Technolyze",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5191301271"
+   }, {
+      "real_name": "Dragonlore",
+      "type": "KnifeContent",
+      "name": "Dragonlore",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2014046217"
+   }, {
+      "real_name": "FreezyPop",
+      "type": "KnifeContent",
+      "name": "Lord Permafrost",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=8317872746"
+   }, {
+      "real_name": "HeartbreakerKnife",
+      "type": "KnifeContent",
+      "name": "Heartbreaker",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5004855138"
+   }, {
+      "real_name": "Crescendo",
+      "type": "KnifeContent",
+      "name": "Crescendo",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1311835743"
+   }, {
+      "real_name": "ThunderKnife",
+      "type": "KnifeContent",
+      "name": "Thunder",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5012535219"
+   }, {
+      "real_name": "TomahawkKnife",
+      "type": "KnifeContent",
+      "name": "Tomahawk",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5062031073"
+   }, {
+      "real_name": "VisibleKnife",
+      "type": "KnifeContent",
+      "name": "Partially-visible Knife",
+      "tier": "Legendary",
+      "desc": "..",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1001851028"
+   }, {
+      "real_name": "DearestGratitude",
+      "type": "KnifeContent",
+      "name": "Dearest Gratitude",
+      "tier": "Legendary",
+      "desc": "The knife of the rich that makes them even richer!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1311836222"
+   }, {
+      "real_name": "Flambe",
+      "type": "KnifeContent",
+      "name": "Flambé",
+      "tier": "Legendary",
+      "desc": "I'm taking you to FLAVORTOWN.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2230550645"
+   }, {
+      "real_name": "StingerKnife",
+      "type": "KnifeContent",
+      "name": "Stinger",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5004854534"
+   }, {
+      "real_name": "MidnightKnife",
+      "type": "KnifeContent",
+      "name": "Midnight",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5061842436"
+   }, {
+      "real_name": "MVPKnife",
+      "type": "KnifeContent",
+      "name": "MVP Knife",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5004852948",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "SpecialProjectileFork",
+      "type": "KnifeContent",
+      "name": "",
+      "tradable": false,
+      "tier": "Contraband",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "TeleportKnife2",
+      "type": "KnifeContent",
+      "name": "Teleport Knife",
+      "tradable": false,
+      "tier": "Epic",
+      "desc": "ZOOOOOM",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5138807080",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "HyperBeam",
+      "type": "KnifeContent",
+      "name": "Hyperbeam",
+      "tier": "TrueMythical",
+      "desc": "UNLIMITED POWER!!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3076519032"
+   }, {
+      "real_name": "TeleportKnife",
+      "type": "KnifeContent",
+      "name": "Teleport Knife",
+      "tier": "Epic",
+      "desc": "ZOOOOOM",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5138807080"
+   }, {
+      "real_name": "DeathBeam",
+      "type": "KnifeContent",
+      "name": "Deathbeam",
+      "tier": "Mythical",
+      "desc": "Allows your knife to travel at the speed of light!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1854920414"
+   }, {
+      "real_name": "AdminKnife",
+      "type": "KnifeContent",
+      "name": "ADMIN KNIFE",
+      "tradable": false,
+      "tier": "Mythical",
+      "desc": "This one's for you, wingz.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=1854972951",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "NoscopeKnife",
+      "type": "KnifeContent",
+      "name": "Noscope",
+      "tier": "Epic",
+      "desc": "Instantly throw your knives at the speed of sound!",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=2165484210"
+   }, {
+      "real_name": "CustomBeam",
+      "type": "KnifeContent",
+      "name": "customBeam",
+      "tier": "Contraband",
+      "desc": "Purchased illegally from the Black Market.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=3076519032"
+   }, {
+      "real_name": "BurningFlamesKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Burning Flames",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5163606884"
+   }, {
+      "real_name": "JojoKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Menacing",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5142613405"
+   }, {
+      "real_name": "SpookyKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Spooky",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4559334382"
+   }, {
+      "real_name": "RainbowKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Rainbow",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4561230321"
+   }, {
+      "real_name": "ElectricKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Electric",
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4561245875"
+   }, {
+      "real_name": "QuirkKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Hero's Aura",
+      "tier": "Legendary",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4568265974"
+   }, {
+      "real_name": "NullKnifeEffect",
+      "type": "KnifeContent",
+      "name": "NullEffect",
+      "tradable": false,
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4577612179",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "HackerKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Hacker",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4577612179"
+   }, {
+      "real_name": "PlasmaKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Plasma",
+      "tradable": false,
+      "tier": "Epic",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=",
+      "UNOBTAINABLE": true
+   }, {
+      "real_name": "FranklinKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Franklin",
+      "tier": "Rare",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=4578158224"
+   }, {
+      "real_name": "OverflowKnifeEffect",
+      "type": "KnifeContent",
+      "name": "Overflow",
+      "tier": "Mythical",
+      "desc": "No description available.",
+      "icon": "https://assetdelivery.roblox.com/v1/asset/?id=5134457795"
+   }],
+   "tiers": {
+      "Common": ["39a758", "0d751f", "339c13"],
+      "Legendary": ["ce8d0c", "ebb800", "ff8c08"],
+      "Rare": ["2481ea", "0c17c0", "077deb"],
+      "Stock": ["383131", "312a2a", "f0f0f0"],
+      "Contraband": ["000000", "000000", "161616"],
+      "Epic": ["aa00ff", "4d00c7", "dc13ff"],
+      "Mythical": ["aa0000", "9b0000", "df0000"],
+      "TrueMythical": ["d800d5", "bc00d5", "f706d3"]
+   }
+}
