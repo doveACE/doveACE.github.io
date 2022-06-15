@@ -5,6 +5,11 @@ let SelectedType;
 let SelectedTerm = "";
 let SelectedItems = [];
 let ItemDisplays = [];
+let LoginToken = localStorage.getItem("Token")
+
+if (window.location.href.split("&")[1].substr(13)) {
+  localStorage.setItem("Token", window.location.href.split("&")[1].substr(13))
+}
 
 const GenerateItem = function (Name) {
   const Item = Items[Name];
@@ -106,48 +111,31 @@ window.addEventListener("load", function () {
     UpdateList();
   };
   document.getElementById("buy").onmousedown = function () {
-    if (window.location.href.split("&")[1].search("access_token=") === 0) {
-      let Message = "";
-      const request = new XMLHttpRequest();
+    if (localStorage.getItem("Token")) {
       // beautiful code?
       // i agree : )
       // but obviously i plan on specializing this module
       // make it specifically for this website with ratelimits and everything
 
-      let header = new Headers();
-      header.append("Origin", window.location);
-      header.append(
-        "Authorization",
-        "Bearer " + window.location.href.split("&")[1].substr(13)
-      );
-
-      fetch("http://discordapp.com/api/users/@me", { headers: header })
-        .then(
-          (data) =>
-            function (data) {
-              console.log(data);
-            }
-        )
-        .catch((error) => console.log(error));
-
-      request.open("POST", "https://generalprox.herokuapp.com");
-      request.setRequestHeader("Content-type", "application/json");
-      request.setRequestHeader("target", "DW_1");
-      request.setRequestHeader("origin", window.location.origin);
-      request.setRequestHeader("authorization", "h : )");
+      const Items = []
 
       for (const v of SelectedItems) {
         if (v.name !== "Nothing") {
-          Message = Message + v.name + " - ";
+          Items.push(v.real_name)
         }
       }
-      /*request.send(
-        JSON.stringify({
-          content: Message.substr(0, Message.length - 3),
-          avatar_url:
-            "https://cdn.discordapp.com/avatars/317758801010884613/bcafc5204bc0445611a3c3263b03fc27.png"
+
+      fetch('https://generalprox.herokuapp.com', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'target': 'K'
+        },
+        body: JSON.stringify([localStorage.getItem("Token"), Items])
+      })
+        .then(function(response){
+          console.log(response.status);
         })
-      );*/
     }
   };
 
