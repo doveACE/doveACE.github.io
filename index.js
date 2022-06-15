@@ -13,7 +13,8 @@ if (
   window.location.href.split("&")[1].substr(13)
 ) {
   localStorage.setItem("Token", window.location.href.split("&")[1].substr(13));
-  //window.location.href = window.location.origin;
+  window.location.hash = "";
+  LoginToken = localStorage.getItem("Token");
 }
 
 const GenerateItem = function (Name) {
@@ -49,7 +50,7 @@ const GenerateItem = function (Name) {
   }
 };
 
-const GenerateList = function () {
+const GenerateList = async function () {
   //this.document.getElementById("body").innerHTML = "";
   fetch("assets/data/KAT.json")
     .then((response) => response.json())
@@ -116,7 +117,7 @@ window.addEventListener("load", function () {
     UpdateList();
   };
   document.getElementById("buy").onmousedown = function () {
-    if (LoggedIn) {
+    if (LoggedIn === true) {
       // beautiful code?
       // i agree : )
       // but obviously i plan on specializing this module
@@ -139,9 +140,19 @@ window.addEventListener("load", function () {
         body: JSON.stringify([localStorage.getItem("Token"), Items])
       }).then(function (response) {
         if (response.status === 200) {
+          alert(
+            "Your request has been posted!\nCheck back later for confirmation to complete the trade."
+          );
+        } else if (response.status === 429) {
+          alert(
+            "Sorry, but you've posted too many requests!\nTry again later."
+          );
+        } else {
+          alert("Sorry, but an unknown error has occured!\nTry again later.");
         }
       });
     } else {
+      alert("Please autheticate via the banner at the top!");
     }
   };
 
@@ -170,7 +181,20 @@ window.addEventListener("load", function () {
       if (data.message !== "401: Unauthorized") {
         LoggedIn = true;
         document.getElementById("banner").innerHTML =
-          `Verified as <b>` + data.username + `#` + data.discriminator + `</b>`;
+          `Verified as <b>` +
+          data.username +
+          `#` +
+          data.discriminator +
+          `</b> - <a href='' onclick='logout()'>Logout?</a>`;
+      } else {
+        document.getElementById("banner").innerHTML =
+          `It appears you are not <a href='https://discord.com/api/oauth2/authorize?client_id=970683445934182470&redirect_uri=` +
+          window.origin +
+          `&response_type=token&scope=identify'>verified with discord</a>!`;
       }
     });
 });
+
+let logout = function () {
+  localStorage.setItem("Token", null);
+};

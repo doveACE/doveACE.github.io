@@ -17,6 +17,11 @@ body {
   margin: 0px;
 }
 
+button {
+  height: 50%;
+  width: 10%;
+}
+
 #body {
   width: 66%;
 }
