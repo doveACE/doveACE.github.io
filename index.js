@@ -13,7 +13,7 @@ if (
   window.location.href.split("&")[1].substr(13)
 ) {
   localStorage.setItem("Token", window.location.href.split("&")[1].substr(13));
-  window.location.href = window.location.origin;
+  //window.location.href = window.location.origin;
 }
 
 const GenerateItem = function (Name) {
