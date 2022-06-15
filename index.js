@@ -5,11 +5,15 @@ let SelectedType;
 let SelectedTerm = "";
 let SelectedItems = [];
 let ItemDisplays = [];
-let LoginToken = localStorage.getItem("Token")
+let LoginToken = localStorage.getItem("Token");
+let LoggedIn = false;
 
-if (window.location.href.split("&")[1] && window.location.href.split("&")[1].substr(13)) {
-  localStorage.setItem("Token", window.location.href.split("&")[1].substr(13))
-  window.location.href = window.location
+if (
+  window.location.href.split("&")[1] &&
+  window.location.href.split("&")[1].substr(13)
+) {
+  localStorage.setItem("Token", window.location.href.split("&")[1].substr(13));
+  window.location.href = window.location.origin;
 }
 
 const GenerateItem = function (Name) {
@@ -112,31 +116,32 @@ window.addEventListener("load", function () {
     UpdateList();
   };
   document.getElementById("buy").onmousedown = function () {
-    if (localStorage.getItem("Token")) {
+    if (LoggedIn) {
       // beautiful code?
       // i agree : )
       // but obviously i plan on specializing this module
       // make it specifically for this website with ratelimits and everything
 
-      const Items = []
+      const Items = [];
 
       for (const v of SelectedItems) {
         if (v.name !== "Nothing") {
-          Items.push(v.real_name)
+          Items.push(v.real_name);
         }
       }
 
-      fetch('https://generalprox.herokuapp.com', {
-        method: 'POST',
+      fetch("https://generalprox.herokuapp.com", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
-          'target': 'K'
+          "Content-Type": "application/json",
+          target: "K"
         },
         body: JSON.stringify([localStorage.getItem("Token"), Items])
-      })
-        .then(function(response){
-          console.log(response.status);
-        })
+      }).then(function (response) {
+        if (response.status === 200) {
+        }
+      });
+    } else {
     }
   };
 
@@ -152,4 +157,20 @@ window.addEventListener("load", function () {
   }
 
   GenerateList();
+  fetch("https://discordapp.com/api/users/@me", {
+    method: "GET",
+    headers: {
+      Authorization: "Bearer " + LoginToken
+    }
+  })
+    .then(function (response) {
+      return response.json();
+    })
+    .then(function (data) {
+      if (data.message !== "401: Unauthorized") {
+        LoggedIn = true;
+        document.getElementById("banner").innerHTML =
+          `Verified as <b>` + data.username + `#` + data.discriminator + `</b>`;
+      }
+    });
 });
