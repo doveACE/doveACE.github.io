@@ -7,7 +7,7 @@ let SelectedItems = [];
 let ItemDisplays = [];
 let LoginToken = localStorage.getItem("Token")
 
-if (window.location.href.split("&") && window.location.href.split("&")[1].substr(13)) {
+if (window.location.href.split("&")[1] && window.location.href.split("&")[1].substr(13)) {
   localStorage.setItem("Token", window.location.href.split("&")[1].substr(13))
   window.location.href = window.location
 }
