@@ -1,3 +1,6 @@
+// okay if you ban me do it cause of this code
+// this code is positively gnarly
+
 let Items;
 let Tiers;
 let SelectedTier;
